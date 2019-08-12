@@ -9,3 +9,10 @@
 for i in 1..20
     Post.create(title: "#{i}번째글입니다", content: "#{i}번째 내용입니다")
 end
+
+
+
+
+
+
+
